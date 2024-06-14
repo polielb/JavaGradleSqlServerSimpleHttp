@@ -31,6 +31,9 @@ gradlew.bat clean
 gradlew.bat build
 
 java -jar build/libs/javaGradleSqlServerSimple.jar
+Servidor HTTP iniciado en el puerto 8081
 
 http://localhost:8081/DameFechaHora
+
+
 
