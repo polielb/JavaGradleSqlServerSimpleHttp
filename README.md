@@ -19,7 +19,7 @@ Update the `src/main/resources/application.properties` file with your database c
 
 ## probar
 
-abrir con  IntelliJ IDEA 2024.1.2 (Community Edition) pararce en App.java y dale Play
+abrir con  IntelliJ IDEA 2024.1.2 (Community Edition) parese en App.java y dale Play
 ir a 
 http://localhost:8081/DameFechaHora
 
